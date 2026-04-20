@@ -16,7 +16,8 @@ The "Human-First" Stack:
   
   • Refinement Layer: Iterative prompt engineering and model fine-tuning. 
   
-Research Goals 
+Research Goals:
+
   1. Assistive Tech: Proving AI as a viable frontal lobe replacement for neurodivergent creators.
   2. Frontier Learning: Implementing Computer Science fundamentals through agentic implementation.
   3. Knowledge Sovereignty: Advocating for the right of humans (and their AI extensions) to digest and learn from public data without gatekeeping. 
