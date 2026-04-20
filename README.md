@@ -8,9 +8,12 @@ Overview: A solo-operator research project exploring the synergy between Neurodi
 
 This repository documents the technical workflows used to transform varied, high-level intellectual seeds into structured musical and visual assets. 
 
-The "Human-First" Stack 
-  • Conceptual Engine: Cross-disciplinary knowledge (CS Basics, Law, Humanities). 
+The "Human-First" Stack: 
+
+  • Conceptual Engine: Cross-disciplinary knowledge (CS Basics, Law, Humanities).
+  
   • Executive Function Layer: AI Agents used for task decomposition, logic checking, and structural organization. 
+  
   • Refinement Layer: Iterative prompt engineering and model fine-tuning. 
   
 Research Goals 
